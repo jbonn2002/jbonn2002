@@ -1,16 +1,47 @@
-### Hi there 👋
+<p align="center"><img width= "600" height= "200" src="https://user-images.githubusercontent.com/125697343/222550003-31053ca8-23dd-4e8c-bb6d-ae0eed02fd48.png" alt="Hello, I'm Jordan!"><a href="https://jordybdev.vercel.app/"></a></p>
 
-<!--
-**jbonn2002/jbonn2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a self-taught passionate FrontEnd developer from California
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 📈 Love to learn and will never stop learning, always striving to become a better developer
+
+- ❤️ I love to code, and build fun full-stack projects with Next.js, React, Tailwind, Prisma, and many more frameworks and libraries
+
+- 💬 Would love to get in touch about any work or job opportunites [here](mailto:jbonn2002@gmail.com)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbonn2002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jordan's github stats" /></a> | <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonn2002&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/jbonn2002/nextjs-networth-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-networth-tracker&theme=buefy" />
+</a>
+<a href="https://github.com/jbonn2002/nextjs-portfolio-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-portfolio-project&theme=buefy" />
+</a>
+<a href="https://github.com/jbonn2002/nextjs-reddit-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-reddit-clone&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/jordybdev">
+  <img align="center" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="center" alt="Anurag Hazra | CodeSandbox" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
+</a>
+
