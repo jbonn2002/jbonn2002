@@ -19,20 +19,20 @@ I'm a self-taught passionate FrontEnd developer from California
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbonn2002&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jordan's github stats" /></a> | <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonn2002&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbonn2002&theme=tokyonight" alt="Jordan's github stats" /></a> | <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonn2002&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/jbonn2002/nextjs-networth-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-networth-tracker&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-networth-tracker&theme=tokyonight" />
 </a>
 <a href="https://github.com/jbonn2002/nextjs-portfolio-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-portfolio-project&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-portfolio-project&theme=tokyonight" />
 </a>
 <a href="https://github.com/jbonn2002/nextjs-reddit-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-reddit-clone&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-reddit-clone&theme=tokyonight" />
 </a>
 
 <br />
