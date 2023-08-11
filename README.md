@@ -34,6 +34,9 @@ I'm a self-taught passionate FrontEnd developer from California
 <a href="https://github.com/jbonn2002/nextjs-reddit-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-reddit-clone&theme=tokyonight" />
 </a>
+<a href="https://github.com/jbonn2002/Nextjs-Spotify-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=Nextjs-Spotify-Project&theme=tokyonight" />
+</a>
 
 <br />
 <br />
