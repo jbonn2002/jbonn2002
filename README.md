@@ -10,7 +10,7 @@ I'm a self-taught passionate FrontEnd developer from California
 
 - ❤️ I love to code, and build fun full-stack projects with Next.js, React, Tailwind, Prisma, and many more frameworks and libraries
 
-- 💬 Would love to get in touch about any work or job opportunites [here](mailto:jbonn2002@gmail.com)
+- 💬 Would love to get in touch about any work or job opportunities [here](mailto:jbonn2002@gmail.com)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -44,7 +44,7 @@ I'm a self-taught passionate FrontEnd developer from California
 <a href="https://twitter.com/jordybdev">
   <img align="center" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="center" alt="Anurag Hazra | CodeSandbox" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jordan-bonnaire/">
+  <img align="center" alt="Jordan Bonnaire| LinkedIn" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
 </a>
 
