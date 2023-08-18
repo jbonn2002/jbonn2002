@@ -41,10 +41,13 @@ I'm a self-taught passionate FrontEnd developer from California
 <br />
 <br />
 
+<a href="https://jordybdev.vercel.app/">
+  <img align="center" alt="Jordan Bonnaire | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 <a href="https://twitter.com/jordybdev">
-  <img align="center" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="center" alt="Jordan Bonnaire | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jordan-bonnaire/">
-  <img align="center" alt="Jordan Bonnaire| LinkedIn" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
+  <img align="center" alt="Jordan Bonnaire | LinkedIn" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linkedin.svg" />
 </a>
 
