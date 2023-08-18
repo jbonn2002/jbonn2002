@@ -19,8 +19,7 @@ I'm a self-taught passionate FrontEnd developer from California
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jbonn2002&theme=tokyonight" alt="Jordan's github stats" /></a> | <a href="https://github.com/jbonn2002/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonn2002&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/jbonn2002/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonn2002&layout=compact&theme=tokyonight&hide_border=true" /></a>
 
 #### Top Repositories
 
@@ -42,7 +41,7 @@ I'm a self-taught passionate FrontEnd developer from California
 <br />
 
 <a href="https://jordybdev.vercel.app/">
-  <img align="center" alt="Jordan Bonnaire | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="center" alt="Jordan Bonnaire | Website" width="21px" fill="#ffffff" src="https://raw.githubusercontent.com/jbonn2002/jbonn2002/main/assets/internet-svgrepo-com.svg" />
 </a>
 <a href="https://twitter.com/jordybdev">
   <img align="center" alt="Jordan Bonnaire | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
