@@ -2,15 +2,15 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from California
+I'm a self-taught passionate Full-Stack developer from California
 
 **About me**
 
-- 📈 Love to learn and will never stop learning, always striving to become a better developer
+- 📈 I love to learn and will never stop learning, always striving to become a better developer.
 
-- ❤️ I love to code, and build fun full-stack projects with Next.js, React, Tailwind, Prisma, and many more frameworks and libraries
+- ❤️ I love to code, and build fun full-stack projects with Next.js, React, Tailwind, Prisma, and many more frameworks and libraries.
 
-- 💬 Would love to get in touch about any work or job opportunities [here](mailto:jbonn2002@gmail.com)
+- 💬 Would love to get in touch about any work or job opportunities [here](mailto:jbonn2002@gmail.com).
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
