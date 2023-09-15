@@ -30,11 +30,11 @@ I'm a self-taught passionate Full-Stack developer from California
 <a href="https://github.com/jbonn2002/nextjs-portfolio-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-portfolio-project&theme=tokyonight" />
 </a>
+<a href="https://github.com/jbonn2002/nextjs-saas-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-saas-project&theme=tokyonight" />
+</a>
 <a href="https://github.com/jbonn2002/nextjs-reddit-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=nextjs-reddit-clone&theme=tokyonight" />
-</a>
-<a href="https://github.com/jbonn2002/Nextjs-Spotify-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbonn2002&repo=Nextjs-Spotify-Project&theme=tokyonight" />
 </a>
 
 <br />
