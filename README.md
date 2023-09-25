@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate Full-Stack developer from California
+I'm a passionate self-taught Full-Stack developer from California
 
 **About me**
 
