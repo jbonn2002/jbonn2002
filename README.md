@@ -1,8 +1,8 @@
-<p align="center"><img width= "600" height= "200" src="https://user-images.githubusercontent.com/125697343/222550003-31053ca8-23dd-4e8c-bb6d-ae0eed02fd48.png" alt="Hello, I'm Jordan!"><a href="https://jordybdev.vercel.app/"></a></p>
+<p align="center"><img width= "700" height= "200" src="https://user-images.githubusercontent.com/125697343/222550003-31053ca8-23dd-4e8c-bb6d-ae0eed02fd48.png" alt="Hello, I'm Jordan!"><a href="https://jordybdev.vercel.app/"></a></p>
 
 <br />
 
-I'm a passionate self-taught Full-Stack developer from California
+I'm a passionate self-taught Full-Stack developer from Huntington Beach, California
 
 **About me**
 
