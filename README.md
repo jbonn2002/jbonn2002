@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a passionate self-taught Full-Stack developer from Huntington Beach, California
+I am a passionate self-taught Full-Stack developer from Huntington Beach, California
 
 **About me**
 
