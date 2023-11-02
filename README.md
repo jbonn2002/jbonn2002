@@ -6,7 +6,7 @@ I am a passionate self-taught Full-Stack developer from Huntington Beach, Califo
 
 **About me**
 
-- 📈 I love to learn and will never stop learning, always striving to become a better developer.
+- 📈 I love learning and keeping up to date with the latest tech, and releases in the javascript and typescript ecosystem
 
 - ❤️ I love to code, and build full-stack projects with Next.js, React, Tailwind, Prisma, and many more frameworks and libraries.
 
