@@ -10,7 +10,7 @@ I am a passionate self-taught Full-Stack developer from Huntington Beach, Califo
 
 - ❤️ I love to code, and build full-stack projects with Next.js, React, Tailwind, Prisma, and many more frameworks and libraries.
 
-- 💬 Would love to get in touch about any work or job opportunities [here](mailto:jbonn2002@gmail.com).
+- 💬 Would love to get in touch about any work or career opportunities [here](mailto:jbonn2002@gmail.com).
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
